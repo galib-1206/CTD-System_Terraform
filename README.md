@@ -2,7 +2,7 @@
 
 IUT CSE FEST 2024 Hackathon DevOps Segment Team team_naam_nai
 
-Basically, We developed ####Car_Trading_Management_System that includes a range of functionalities such as -
+Basically, We developed **Car_Trading_Management_System that includes a range of functionalities such as -
 1. Registered Users can apply for Car Trading.
 2. Adding and viewing Car post in User Dashboard.
 3. Multiple Payment option, Price wise sorting.
