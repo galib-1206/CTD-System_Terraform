@@ -1,6 +1,15 @@
-# CTD-system
+# CTMS-system
 
 IUT CSE FEST 2024 Hackathon DevOps Segment Team team_naam_nai
+
+Basically, We developed a hashtag#Car_Trading_Management_System that includes a range of functionalities such as -
+1. Registered Users can apply for Car Trading.
+2. Adding and viewing Car post in User Dashboard.
+3. Multiple Payment option, Price wise sorting.
+4. Using Cloudfront and Amazon S3 for frontend deployment and Amazon CodePipeline and CodeDeploy for backend deployment.
+5. Using Route53 for assigning custom DNS, SSL Certificate taken from Certificate Management.
+6. Amazon Cloud watch for monitoring, Terraform for infrastructure automation, Application Load Balancer (ELB).
+7. Mailing Service (SNS) during Autoscaling and EBS Snapshots Lifecycle for Backup.
 
 # Stage 1
 
